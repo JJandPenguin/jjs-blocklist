@@ -40,4 +40,7 @@ crunchyroll.com
 crunchyrollcdn.com
 vrv.co
 
+#hidive
+hidive.com
+diceplatform.com
 
