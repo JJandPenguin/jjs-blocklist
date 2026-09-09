@@ -1,17 +1,3 @@
-#nuke roblox
-roblox.com
-rbxcdn.com
-rbxinfra.net
-rbxtrk.com
-robiox.com.py
-roblox.co.uk
-roblox.net
-roblox.us
-
-#nuke matcha
-matcha.minecraft.best
-174.136.202.3
-
 #general anti tv show crusade
 #
 #block crunchyroll
@@ -48,3 +34,10 @@ aiv-delivery.net
 pv-cdn.net
 aiv-cdn.net
 primevideo.com
+
+#crunchyroll
+crunchyroll.com
+crunchyrollcdn.com
+vrv.co
+
+
